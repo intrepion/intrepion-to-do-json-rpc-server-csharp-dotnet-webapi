@@ -24,6 +24,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ToDoLibrary\ToDoLibrary.csproj" />
+    <ProjectReference Include="..\ToDoWebApi\ToDoWebApi.csproj" />
   </ItemGroup>
 
 </Project>
